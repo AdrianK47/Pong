@@ -180,7 +180,7 @@ public class PongCanvas
                                                             paddle2,
                                                             player1,
                                                             player2),
-                                           0,40);
+                                           0,1);
         }
 
     }
